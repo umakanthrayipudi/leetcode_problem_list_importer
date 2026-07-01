@@ -6,8 +6,8 @@ Bulk add LeetCode problems to private lists using a markdown file.
 
 Clone and install:
 ```bash
-git clone https://github.com/yourusername/leetcode-list-manager.git
-cd leetcode-list-manager
+git clone https://github.com/umakanthrayipudi/leetcode_problem_list_importer.git
+cd leetcode_problem_list_importer
 pip install -e .
 ```
 
