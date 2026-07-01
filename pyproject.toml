@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.9"
 license = {text = "MIT"}
 authors = [
-    {name = "Your Name", email = "your.email@example.com"}
+    {name = "umakanth rayipudi", email = "umakanthrayipudi@example.com"}
 ]
 keywords = ["leetcode", "api", "automation", "problem-list"]
 classifiers = [
@@ -38,9 +38,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/leetcode-list-manager"
-Repository = "https://github.com/yourusername/leetcode-list-manager.git"
-Issues = "https://github.com/yourusername/leetcode-list-manager/issues"
+Homepage = "https://github.com/umakanthrayipudi/leetcode_problem_list_importer"
+Repository = "https://github.com/umakanthrayipudi/leetcode_problem_list_importer.git"
+Issues = "https://github.com/umakanthrayipudi/leetcode_problem_list_importer/issues"
 
 [project.scripts]
 leetcode-add-to-list = "leetcode_list_manager.cli:main"
